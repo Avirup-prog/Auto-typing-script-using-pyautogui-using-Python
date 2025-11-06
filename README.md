@@ -1,4 +1,4 @@
-# Auto-typing-script-using-pyautogui-using-Python
+# Auto-typing-script-using-pyautogui-on-Python
 
 This script simulates realistic human typing on your computer.  
 It can type from a text file directly into any active window (browser, doc, chat, etc.) with configurable typing speed, delay randomness, and typing mistakes.
