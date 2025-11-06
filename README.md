@@ -1,0 +1,1 @@
+# Auto-typing-script-using-pyautogui-using-Python
